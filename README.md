@@ -16,7 +16,7 @@
 
 [Задание 1.8. Справочная система «Охрана труда».](https://github.com/KsushaSeliv/Practice/tree/master/1.8)
 
-[Задание 1.9. Санитарно-эпидемиологические требования к физическим факторам на рабочих местах.](https://github.com/KsushaSeliv/Practice/tree/master/1.9)
+[Задание 1.9. Санитарно-эпидемиологические требования.](https://github.com/KsushaSeliv/Practice/tree/master/1.9)
 
 [Задание 1.10. Инсталляция программного обеспечения.](https://github.com/KsushaSeliv/Practice/tree/master/1.10)
 
